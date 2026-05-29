@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="kernel/oneplus/sm8750" path="kernel/oneplus/sm8750" revision="oneplus15_sm8750_android16" />
+  <project name="kernel/oneplus/sm8750-modules" path="kernel/oneplus/sm8750-modules" revision="oneplus15_sm8750_android16" />
+</manifest>
